@@ -1,7 +1,7 @@
 ![Монтажная область 1@3x](https://user-images.githubusercontent.com/54061981/168669307-4b92ebbc-7b38-4405-be16-2bd0ec387223.png)
 
 
-# GrenadeVarietyCE
+# Overview
 Adds new types of grenades to take advantage of CE mechanics:
 
 * Stinger
@@ -47,3 +47,6 @@ Heavy prometheum tank repurposed into a throwable bomb with a timed fuse. Once t
 
 ![PrometheumBomba](https://user-images.githubusercontent.com/54061981/168669937-2bd230e2-5435-4d7e-aba8-8bf6052cedb7.png)
 
+# Credits
+
+Huge thank you to Boldizsar for help with the textures, to the CE team for making an awesome mod and to Auggie for randomly mentioning Panzerwurfmine at 3 AM.
