@@ -1,4 +1,5 @@
-![Монтажная область 1@3x](https://user-images.githubusercontent.com/54061981/168669307-4b92ebbc-7b38-4405-be16-2bd0ec387223.png)
+
+![Preview](https://user-images.githubusercontent.com/54061981/169286994-ef9415b7-a62a-4524-b9ec-1e8ab886f324.png)
 
 
 # Overview
@@ -45,7 +46,7 @@ Old-school anti-tank grenade, consisting of a shaped charge on a stick supported
 # Prometheum bomb
 Heavy prometheum tank repurposed into a throwable bomb with a timed fuse. Once the timer runs out, prometheum gets exposed to oxygen, causing a violent explosion that drenches everything nearby. Capable of turning even the coldest spaceship into a raging, smoking inferno, which made the bomb popular among space pirates.
 
-![PrometheumBomba](https://user-images.githubusercontent.com/54061981/168669937-2bd230e2-5435-4d7e-aba8-8bf6052cedb7.png)
+![PrometheumBomb_a](https://user-images.githubusercontent.com/54061981/169287055-571a4a9c-9034-47f8-b810-f53be1310744.png)
 
 # Credits
 
